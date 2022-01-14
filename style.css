@@ -1025,7 +1025,7 @@ input[type=submit] {
 }
 
 .bg-presentation {
-  background-image: url("img/image-de-presentation.jpg");
+  background-image: url("img/image-de-presentation.webp");
 }
 
 .image-resize-mode {
