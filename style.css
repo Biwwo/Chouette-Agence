@@ -1069,7 +1069,7 @@ input[type=submit] {
     padding-top: 100px;
   }
 
-  .bloc-lg {
+  .lg1 {
     height: 800px;
   }
 
@@ -1088,11 +1088,56 @@ input[type=submit] {
     padding-top: 15px;
   }
 
-  .bloc-lg .text-center {
-    padding-top: 40px;
-  }
-
   .bloc-lg h1 {
     font-weight: bold;
+  }
+
+  #main h2 {
+    font-size: 5rem;
+  }
+
+  #main p {
+    font-size: 3rem;
+  }
+
+  #main article {
+    width: 100%;
+  }
+
+  #main q, cite {
+    font-size: 3.2rem;
+  }
+
+  .col-sm-6 {
+    display: flex;
+  }
+
+  .portfolio-row article {
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 20px;
+  }
+
+  .col-sm-6 img {
+    margin: 0;
+    width: 100%;
+    padding-right: 30px;
+  }
+
+  .container-form form, label {
+    font-size: 3rem;
+  }
+
+  .container-form option {
+    font-size: 1rem;
+  }
+
+  footer p {
+    font-size: 3rem;
+  }
+
+  .scrollToTop {
+    width: 75px;
+    height: 75px;
   }
 }
